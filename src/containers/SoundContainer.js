@@ -23,7 +23,7 @@ class SoundContainer extends Component {
   render(){
     return(
       <Fragment>
-      <h1>Sound Container!!!</h1>
+      <h1>Sound Container</h1>
 
       <SoundGenerator context={this.state.context}/>
       </Fragment>
